@@ -30,6 +30,7 @@ Fixed Issues:
 API Changes:
 
 * [#2249](https://github.com/ckeditor/ckeditor-dev/issues/1791): Added [`CKEDITOR.tools.detectPluginsConflict`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tools.html#method-detectPluginsConflict) function finding conflicts between provided plugins.
+* [#1451](https://github.com/ckeditor/ckeditor-dev/issues/1451): Fixed: Context menu is incorrectly positioned when opened with `Shift-F10`.
 
 ## CKEditor 4.10
 
